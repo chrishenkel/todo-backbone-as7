@@ -24,3 +24,5 @@
     display: table-cell;
     width: 100px;
 }
+
+.modal { position: fixed; top:50%; left:50%; }   
