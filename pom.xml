@@ -59,20 +59,8 @@
 
 	<repositories>
 		<repository>
-			<releases>
-				<enabled>false</enabled>
-				<updatePolicy>always</updatePolicy>
-				<checksumPolicy>warn</checksumPolicy>
-			</releases>
-			<snapshots>
-				<enabled>true</enabled>
-				<updatePolicy>never</updatePolicy>
-				<checksumPolicy>fail</checksumPolicy>
-			</snapshots>
-			<id>codehausSnapshots</id>
-			<name>Codehaus Snapshots</name>
-			<url>http://snapshots.maven.codehaus.org/maven2</url>
-			<layout>default</layout>
+			<id>JBoss repository</id>
+			<url>http://repository.jboss.org/nexus/content/groups/public/</url>
 		</repository>
 	</repositories>
 
