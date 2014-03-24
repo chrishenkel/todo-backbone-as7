@@ -25,4 +25,6 @@
     width: 100px;
 }
 
-.modal { position: fixed; top:50%; left:50%; }   
+.modal-dialog {
+  padding-top: 15%;
+}
