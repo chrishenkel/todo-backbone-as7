@@ -1,0 +1,26 @@
+#content {
+	position: absolute;
+	top: 50%;
+	height: 240px;
+	margin-top: -120px; /* negative half of the width  */
+	width: 1024px;
+	left: 50%;
+	margin-left: -512px; /* negative half of the height */
+}
+
+#inner {
+    display: table;
+    width: 100%;
+}
+.input-cell {
+    display: table-cell;
+    width: 100%;
+    padding-right:5px;
+}
+#create-text {
+    width: 100%;
+}
+#create-button {
+    display: table-cell;
+    width: 100px;
+}
