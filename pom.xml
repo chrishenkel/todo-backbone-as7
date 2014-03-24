@@ -56,14 +56,6 @@
 		<maven.compiler.source>1.6</maven.compiler.source>
 	</properties>
 
-
-	<repositories>
-		<repository>
-			<id>JBoss repository</id>
-			<url>http://repository.jboss.org/nexus/content/groups/public/</url>
-		</repository>
-	</repositories>
-
 	<dependencyManagement>
 		<dependencies>
 			<!-- JBoss distributes a complete set of Java EE 6 APIs including a Bill 
