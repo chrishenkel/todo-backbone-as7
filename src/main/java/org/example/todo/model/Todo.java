@@ -98,6 +98,7 @@ public class Todo implements Serializable
       return this.completed;
    }
 
+   // test
    public void setCompleted(final boolean completed)
    {
       this.completed = completed;
