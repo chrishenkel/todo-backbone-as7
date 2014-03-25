@@ -1,11 +1,12 @@
 Todo: A simple todo application
 ========================
 Author: Christopher Henkel
-Level: Intermediate
+
 Technologies: JPA, JAX-RS
+
 Summary: An example that incorporates multiple technologies
-Target Product: EAP
-Source: <https://github.com/jboss-jdf/jboss-as-quickstart/>
+
+Target Product: EAP or AS7
 
 What is it?
 -----------
