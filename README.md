@@ -8,6 +8,8 @@ Summary: An example that incorporates multiple technologies
 
 Target Product: EAP or AS7
 
+Example: http://todoapp-xeph.rhcloud.com/
+
 What is it?
 -----------
 
